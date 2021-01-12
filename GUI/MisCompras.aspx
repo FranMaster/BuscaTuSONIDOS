@@ -77,9 +77,30 @@
         }
 
         #pregunta {
+
             width: 30vw !important;
             max-width: 30vw !important;
         }
+        .respuestaCliente{
+            padding:8px;
+            background:#f39a5a;
+            border-radius:15px;
+            text-align:end;
+            margin-left:400px;
+        }
+        .preguntaCliente{
+            color:white;
+            font-weight:bold;
+            padding:8px;
+            background:#24acf2;
+            border-radius:15px;   
+            
+         
+        }
+         p {
+             margin-bottom:30px;
+        }
+      
 
     </style>
 </asp:Content>

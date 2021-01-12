@@ -14,6 +14,10 @@ namespace GUI
 
         }
 
+
+
+
+
         protected void generar_Click(object sender, EventArgs e)
         {
             //FileUpload.SaveAs(Server.MapPath(".") + "/Imagenes/Catalogo/Cuerdas");
@@ -22,5 +26,6 @@ namespace GUI
 
 
         }
+
     }
 }
